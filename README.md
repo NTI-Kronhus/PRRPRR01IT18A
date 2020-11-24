@@ -8,7 +8,7 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
 
 #### Följande basfunktionalitet måste varje spel innehålla för att du ska få godkänt:
 
-* En godkänd planering enligt [dessa instruktioner]().
+* En godkänd planering enligt [dessa instruktioner](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Inl%C3%A4mningsupggift%20SLUTPROJEKT%20H%C3%A4nga%20Gubbe/Planering).
 * Ett program som fungerar, med följande funktionalitet:
     * Tydliga instruktioner till användaren om hur spelet går till.
     * Att spelaren får gissa på en bokstav i taget, tills hen gissat rätt på alla bokstäver i det rätta ordet. (Spelet ska *inte* differentiera mellan stora och små bokstäver)
